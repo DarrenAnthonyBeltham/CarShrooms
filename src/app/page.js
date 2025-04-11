@@ -1,5 +1,5 @@
-import HomePage from './homepage'
+import header from '@/Components/header.jsx'
 
 export default function Page() {
-  return <HomePage />
+  return 'HomePage'
 }
